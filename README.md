@@ -6,3 +6,5 @@ My first edit
 
 # Adding index.html
 by sugan
+
+merge conflict check in ubuntu Git CLI
